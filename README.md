@@ -1,5 +1,4 @@
-<img width="1113" height="785" alt="Screenshot 2026-09-12 at 3 20 10 PM" src="https://github.com/user-attachments/assets/0d83191f-cb39-4b3e-9011-d4fe57708045" />
-## Hi there, I'm Pranish Pradhan 👋
+## Greetings, I'm Pranish Pradhan 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
