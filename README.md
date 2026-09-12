@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a Business Analyst focused on turning messy data into clear, decision-ready insights - SQL, Python, and Power BI are my core toolkit, and I like problems that end in a dashboard someone will actually use.
+I'm a Business Analyst focused on turning messy data into clear, decision-ready insights - Excel, SQL, Python, and Power BI are my core toolkit, and I like problems that end in a dashboard someone will actually use.
 
 Before pivoting into analytics, I spent years in operations: running my own e-commerce stores, working in my family's automotive business, and analyzing supply chain and logistics for large government tenders at Nepal Power Solution. That hands-on experience taught me what it actually takes to lose a customer, and what it takes to keep one, and it's part of why I came to the U.S. for my MBA in Business Analytics at Webster University.
 
