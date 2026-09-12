@@ -1,3 +1,4 @@
+<img width="1113" height="785" alt="Screenshot 2026-09-12 at 3 20 10 PM" src="https://github.com/user-attachments/assets/0d83191f-cb39-4b3e-9011-d4fe57708045" />
 ## Hi there, I'm Pranish Pradhan 👋
 
 <div align="center">
@@ -23,7 +24,7 @@ Recent hands-on project: a full Python + SQL + Power BI pipeline analyzing custo
 When I'm not working with data, I enjoy playing soccer and barbecuing. I love the "here we go!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://github.com/thepranishpradhan)
+### [🏆 Check Out My Full Portfolio Website](https://thepranishpradhan.github.io/pranish_portfolio/#top)
 
 
 ## 🛠️ Technical Skillset
