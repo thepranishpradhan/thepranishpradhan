@@ -1,40 +1,72 @@
-## Greetings, I'm Pranish Pradhan 👋
+# Hi, I'm Pranish Pradhan
 
-<div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Business+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;SQL+%7C+Python+%7C+Power+BI;MBA+in+Business+Analytics+%40+Webster+University" alt="Typing SVG" />
-</div>
+**Business Operations & Automotive Sales | MBA with a Business Analytics Emphasis**
 
-<!-- 🔗 Update these links with your own social media and contact information -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/mrpranishpradhan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:pranish.pradhan.2024@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
-</p>
+St. Louis, Missouri · [Portfolio](https://thepranishpradhan.github.io/pranish_portfolio/) · [LinkedIn](https://www.linkedin.com/in/mrpranishpradhan/) · [Email](mailto:pranishprof7@gmail.com)
 
-## 🚀 About Me
+## About me
 
-I'm a Business Analyst focused on turning messy data into clear, decision-ready insights - Excel, SQL, Python, and Power BI are my core toolkit, and I like problems that end in a dashboard someone will actually use.
+I'm a customer-focused business operations and automotive sales professional with 5+ years of experience across sales, customer service, inventory, purchasing, and operations. My background includes automotive retail, supply chain analysis, and founding an e-commerce business in Nepal.
 
-Before pivoting into analytics, I spent years in operations: running my own e-commerce stores, working in my family's automotive business, and analyzing supply chain and logistics for large government tenders at Nepal Power Solution. That hands-on experience taught me what it actually takes to lose a customer, and what it takes to keep one, and it's part of why I came to the U.S. for my MBA in Business Analytics at Webster University.
+I earned my MBA with a Business Analytics emphasis at Webster University. I use Excel, SQL, Python, and Power BI to explore customer behavior and business performance, building on hands-on experience with customers, suppliers, and day-to-day operations.
 
-Recent hands-on project: a full Python + SQL + Power BI pipeline analyzing customer shopping behavior - from data cleaning to an interactive dashboard.
+## Experience
 
-When I'm not working with data, I enjoy playing soccer and barbecuing. I love the "here we go!" moment when data reveals something new and useful.
+**Business Operations Associate - Automotive Sales · Mahakali Automobiles**  
+November 2018 - June 2024 · Part-time · Nepal
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://thepranishpradhan.github.io/pranish_portfolio/#top)
+- Supported customer needs assessment, product demonstrations, pricing, warranty education, after-sales support, and complaint resolution.
+- Designed and launched a loyalty and referral program that enrolled **50+ customers within six months**, using Excel to track purchases, referrals, and rewards.
+- Managed inventory and records for **200+ vehicle parts and accessories**, coordinating purchasing and replenishment.
+- Established B2B sourcing relationships with TOTAL Tools and Exide Batteries.
 
+**Supply Chain and Logistics Analyst · Laxmi Group**  
+February 2023 - July 2024 · Full-time · Nepal
 
-## 🛠️ Technical Skillset
+- Analyzed demand, inventory, and order data to support purchasing and replenishment decisions.
+- Monitored supplier lead times and delivery commitments, coordinated issue resolution, and prepared findings for inventory planning and cost control.
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+**Founder & E-commerce Entrepreneur · Steal the Deal**  
+December 2019 - March 2023 · Remote · Nepal
 
-#### Technical Skillset
-<p>
-  <img src="https://img.shields.io/badge/SQL-Intermediate-217346?style=flat&logo=postgresql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Python%20(Pandas)-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Intermediate-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Data%20Cleaning-Experienced-EF6B6B?style=flat" alt="Data Cleaning Skill Badge">
-</p>
+- Managed sourcing, product listings, pricing, customer communication, and order fulfillment.
+- Analyzed revenue, costs, inventory, and product performance to support pricing and profitability decisions.
+
+## Featured project
+
+### [Customer Behavior & Business Performance Analysis](https://github.com/thepranishpradhan/customer_behavior_analysis)
+
+**Python · Pandas · SQL · PostgreSQL · Power BI**
+
+- Analyzed **3,900 customer shopping records** to evaluate revenue, purchasing behavior, product ratings, and customer segments.
+- Wrote SQL queries to answer **10 business questions**.
+- Built an interactive Power BI dashboard to communicate KPIs, purchasing patterns, and revenue trends.
+
+[Explore the project →](https://github.com/thepranishpradhan/customer_behavior_analysis)
+
+## Skills
+
+| Area | Skills and tools |
+| --- | --- |
+| Sales & customer relationships | Consultative selling, customer needs assessment, retention, loyalty and referral programs, after-sales support |
+| Business operations | Inventory management, purchasing, supplier coordination, B2B vendor relations, order management, invoicing |
+| Analytics & reporting | Excel, Google Sheets, SQL, PostgreSQL, Python, Pandas, Power BI, business reporting |
+| Business tools | Microsoft Office, CRM basics |
+
+## Education
+
+**Master of Business Administration - Business Analytics Emphasis**  
+Webster University, St. Louis, Missouri · August 2024 - May 2026
+
+**Bachelor of Business Administration**  
+Informatics College, Pokhara, Nepal · July 2019 - December 2023
+
+## Professional development
+
+LinkedIn Learning coursework and certifications in SQL, Power BI data modeling with DAX, financial forecasting, statistics, Excel for accounting, and PivotTables.
+
+## Connect
+
+Open to opportunities in business operations, automotive sales, and business analytics.
+
+[LinkedIn](https://www.linkedin.com/in/mrpranishpradhan/) · [Portfolio](https://thepranishpradhan.github.io/pranish_portfolio/) · [pranishprof7@gmail.com](mailto:pranishprof7@gmail.com)
