@@ -107,7 +107,7 @@ Managed end-to-end e-commerce operations, from sourcing and marketplace listings
 
 ## Education
 
-**Master of Business Administration — Business Analytics Emphasis**  
+**Master of Business Administration - Business Analytics Emphasis**  
 Webster University · St. Louis, Missouri · **August 2024 - May 2026**
 
 Relevant coursework: Data Visualization · Business Intelligence · Marketing Analytics · Data-Driven Decision Making
