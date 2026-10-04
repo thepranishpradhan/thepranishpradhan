@@ -23,7 +23,7 @@ My MBA with a Business Analytics emphasis builds on that experience. Here, I sha
 | **NPR 115,625** in single-day sales | Personally generated while independently operating Mahakali Automobiles during the 2022 festival season |
 | **50+ customers** enrolled | Launched a loyalty and referral program; reached this enrollment within six months |
 | **200+ parts and accessories** | Managed inventory, records, purchasing, and replenishment |
-| **15–20 customers per weekday** | Assisted approximately 10–15 per weekend day, with product selection, features, and warranties |
+| **15-20 customers per weekday** | Assisted approximately 10-15 per weekend day, with product selection, features, and warranties |
 
 ## Selected analytics projects
 
@@ -47,14 +47,14 @@ My MBA with a Business Analytics emphasis builds on that experience. Here, I sha
 - Uses median and percentile measures, a 30-day analytical threshold, and a sensitivity check for **37 duplicate-flagged rows**.
 - Demonstrates how analytical findings can inform a documented proposal while keeping assumptions and sample limitations visible.
 
-*Independent portfolio exercise using public data from narrow extraction windows on April 1–3, 2024. It is not representative of all HPD complaints or an official HPD engagement; the proposed pilot is not an implemented outcome.*
+*Independent portfolio exercise using public data from narrow extraction windows on April 1-3, 2024. It is not representative of all HPD complaints or an official HPD engagement; the proposed pilot is not an implemented outcome.*
 
 [Read the case study](https://github.com/thepranishpradhan/nyc311-hpd-complaint-analysis) · [Requirements & memo](https://github.com/thepranishpradhan/nyc311-hpd-complaint-analysis/tree/main/docs) · [SQL](https://github.com/thepranishpradhan/nyc311-hpd-complaint-analysis/tree/main/sql) · [Process map](https://github.com/thepranishpradhan/nyc311-hpd-complaint-analysis/tree/main/process%20map) · [Dashboard](https://github.com/thepranishpradhan/nyc311-hpd-complaint-analysis/tree/main/dashboard)
 
 ## Professional experience
 
 ### Mahakali Automobiles · Business Operations Associate - Automotive Sales
-**November 2018 – June 2024 · Part-time · Nepal**
+**November 2018 - June 2024 · Part-time · Nepal**
 
 Managed customer consultations and the sales process for tires, automotive parts, tools, and accessories, including product demonstrations, pricing, objection handling, warranty explanations, free tire-fitting coordination, after-sales support, and complaint resolution.
 
@@ -69,7 +69,7 @@ Managed customer consultations and the sales process for tires, automotive parts
 </details>
 
 ### Laxmi Group · Supply Chain and Logistics Analyst
-**February 2023 – July 2024 · Full-time · Nepal**
+**February 2023 - July 2024 · Full-time · Nepal**
 
 Analyzed demand, inventory, and order data to support purchasing, replenishment, and business decisions.
 
@@ -83,7 +83,7 @@ Analyzed demand, inventory, and order data to support purchasing, replenishment,
 </details>
 
 ### Steal the Deal · Founder & E-commerce Entrepreneur
-**December 2019 – March 2023 · Remote · Nepal**
+**December 2019 - March 2023 · Remote · Nepal**
 
 Managed end-to-end e-commerce operations, from sourcing and marketplace listings to pricing, customer communication, order fulfillment, and performance tracking.
 
@@ -108,16 +108,16 @@ Managed end-to-end e-commerce operations, from sourcing and marketplace listings
 ## Education
 
 **Master of Business Administration — Business Analytics Emphasis**  
-Webster University · St. Louis, Missouri · **August 2024 – May 2026**
+Webster University · St. Louis, Missouri · **August 2024 - May 2026**
 
 Relevant coursework: Data Visualization · Business Intelligence · Marketing Analytics · Data-Driven Decision Making
 
 **Bachelor of Business Administration**  
-Informatics College · Pokhara, Nepal · **July 2019 – December 2023**
+Informatics College · Pokhara, Nepal · **July 2019 - December 2023**
 
 ## Certifications
 
-**LinkedIn Learning · October 2025 – August 2026**
+**LinkedIn Learning · October 2025 - August 2026**
 
 - SQL Essential Training
 - Power BI Data Modeling with DAX
