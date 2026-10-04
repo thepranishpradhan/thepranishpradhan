@@ -128,7 +128,7 @@ Informatics College · Pokhara, Nepal · **July 2019 - December 2023**
 
 ---
 
-### Let's connect
+### Let's connect 🤝
 
 Open to opportunities in **business operations, automotive sales, and business analytics** where customer understanding, operational experience, and analytical thinking can contribute.
 
